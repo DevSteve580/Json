@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Json</string>
+    <string name="simple_json">"{\"results\":{\"sitename\":\"Разработка мобильных приложений
+2020\",\"url\":"\""https://yakse.ru/\""}}"</string>
+</resources>

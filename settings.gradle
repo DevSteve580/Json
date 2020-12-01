@@ -1,0 +1,5 @@
+include ':p03formingdatajsonformat'
+include ':p02arrayprocessingputlist'
+include ':p01arrayprocessing'
+include ':app'
+rootProject.name = "Json"
